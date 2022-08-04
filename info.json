@@ -1,0 +1,7 @@
+{
+  "Id": "ArtOfRallyFFFMap",
+  "DisplayName": "ArtOfRally Flat Finland Freeroam Map",
+  "Author": "Cyril Meyer",
+  "Version": "1.0",
+  "EntryMethod": "ArtOfRallyFFFMap.Main.Load"
+}
